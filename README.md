@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raja Umer Saleem</h1>
-<h3 align="center">I am currently exploring MERN Stack web development.</h3>
+<h2 align="center">I am currently exploring MERN Stack web development.</h2>
 <img decoding="async" fetchpriority="high" width="612" height="193" align="right" src="https://vintechdesign.com/wp-content/uploads/2023/07/web-development.gif" class="attachment-large size-large wp-image-5214" alt="img">
 <p align="left">
-<h1><a href="https://www.linkedin.com/in/raja-umer-saleem" target="_blank" >Let Connect</a></h1>
+<h3><a href="https://www.linkedin.com/in/raja-umer-saleem" target="_blank" >Let Connect</a></h3>
 
 
-- 🔭 I’m currently working on [GuardKey - Your Password Manager](https://guard-key.vercel.app/)
+- 🔭 I’m currently working on [GuardKey - Your Own Password Manager](https://guard-key.vercel.app/)
 
 - 🌱 I’m currently learning **MERN Stack web development**
 
