@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raja Umer Saleem</h1>
 <h3 align="center">I am currently exploring MERN Stack web development.</h3>
-<img decoding="async" fetchpriority="high" width="612" height="193" src="https://vintechdesign.com/wp-content/uploads/2023/07/web-development.gif" class="attachment-large size-large wp-image-5214" alt="img">
+<img decoding="async" fetchpriority="high" width="612" height="193" align="right" src="https://vintechdesign.com/wp-content/uploads/2023/07/web-development.gif" class="attachment-large size-large wp-image-5214" alt="img">
 <p align="left"> <a href="https://twitter.com/raja umer" target="blank"><img src="https://img.shields.io/twitter/follow/raja umer?logo=twitter&style=for-the-badge" alt="raja umer" /></a> </p>
 
 - 🔭 I’m currently working on [GuardKey - Your Password Manager](https://guard-key.vercel.app/)
