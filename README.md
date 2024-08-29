@@ -1,6 +1,6 @@
 ![logo](https://github.com/RajaUmerSaleem/RajaUmerSaleem/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Raja Umer Saleem</h1>
-<h2 align="center">I am currently exploring MERN Stack web development.</h2>
+<h2 align="center">I am currently exploring MERN Stack Web Development.</h2>
 <img decoding="async" fetchpriority="high" width="612" height="193" align="right" src="https://vintechdesign.com/wp-content/uploads/2023/07/web-development.gif" class="attachment-large size-large wp-image-5214" alt="img">
 <p align="left">
 <h3><a href="https://www.linkedin.com/in/raja-umer-saleem" target="_blank" >Let Connect</a></h3>
