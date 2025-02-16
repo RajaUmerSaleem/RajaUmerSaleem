@@ -7,9 +7,9 @@
 <h3><a href="https://www.linkedin.com/in/raja-umer-saleem" target="_blank" >Let Connect</a></h3>
 
 
-- 🔭 I’m currently working on [Ecommerce Web App have both Admin and Client Portal - A complex project With NextJS, Mongodb, NodeJs, ExpressJS, TailwindCSS and SEO Featured]()
+- 🔭 I built ecommerce Web App have both Admin and Client Portal - A complex project With NextAuth ,NextJS, Mongodb,Chartjs TailwindCSS and SEO Featured
 
-- 🌱 I’m currently learning **MERN Stack web development**
+- 🌱**MERN Stack web development**
 
 - 👯 I’m looking to collaborate on **Building Personal Brand Portfolios**
 
