@@ -1,12 +1,13 @@
 ![logo](https://github.com/RajaUmerSaleem/RajaUmerSaleem/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Raja Umer Saleem</h1>
-<h2 align="center">AI Learning.</h2>
-<h2 align="center">MERN Stack Web Development.</h2>
+<h1 align="center">Nice to Meet You!! I'm Raja Umer Saleem</h1>
+<h2 align="center"> Nextjs - MERN Stack Web Development - Data Visvulisation Web App developer</h2>
+<h2 align="center">Learning Al, python, Deep Learning, Web3.</h2>
 <img decoding="async" fetchpriority="high" width="612" height="193" align="right" src="https://vintechdesign.com/wp-content/uploads/2023/07/web-development.gif" class="attachment-large size-large wp-image-5214" alt="img">
 <p align="left">
 <h3><a href="https://www.linkedin.com/in/raja-umer-saleem" target="_blank" >Let's Connect</a></h3>
 
+- 15+ Live Web Solutions 
 - 🔭 I built an ecommerce Web App with both Admin and Client Portal - A complex project with NextAuth, NextJS, MongoDB, Chart.js, TailwindCSS, and SEO features.
 
 - 🌱 **MERN Stack web development**
