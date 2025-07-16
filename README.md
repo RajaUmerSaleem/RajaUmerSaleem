@@ -7,7 +7,8 @@
 <p align="left">
 <h3><a href="https://www.linkedin.com/in/raja-umer-saleem" target="_blank" >Let's Connect</a></h3>
 
-- 15+ Live Web Solutions 
+- 15+ Live Web Solutions
+- Building my own Product that will 
 - 🔭 I built an ecommerce Web App with both Admin and Client Portal - A complex project with NextAuth, NextJS, MongoDB, Chart.js, TailwindCSS, and SEO features.
 
 - 🌱 **MERN Stack web development**
