@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://github.com/RajaUmerSaleem/RajaUmerSaleem/blob/main/Github%20Banner.png" alt="Raja Umer Saleem – Full-Stack & Mobile Engineer" width="100%" />
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Raja+Umer+Saleem+👋;Founder+%7C+localPrompt+%26+Digischool;Full-Stack+%26+Mobile+Engineer;MERN+%7C+Next.js+%7C+Flutter+%7C+Web3;Hackathon+Enthusiast+🏆;Let's+Build+Something+Great!)](https://git.io/typing-svg)
@@ -22,9 +19,9 @@
 
 I'm a **Software Engineer**, **Founder**, and passionate builder who loves turning ideas into real-world products. I thrive at the intersection of **web, mobile, and emerging tech**.
 
-- 🏢 **Founder @ [localPrompt](https://github.com/RajaUmerSaleem)** — AI-powered prompt tooling for developers & creatives
-- 🎓 **Founder @ [Digischool](https://github.com/RajaUmerSaleem)** — EdTech platform automating school workflows and saving teachers hours every day
-- 💼 **15+ live web solutions** shipped across industries
+- 🏢 **Founder @LocalPrompt: AI Prompt Builder** — Private AI prompt tooling for developers & creatives
+- 🎓 **Founder @Digischool** — EdTech platform automating school workflows and saving hours
+- 💼 **30+ live web solutions** shipped across industries
 - 🏆 **Active hackathon competitor** — love the energy, the pressure, and the wins
 - 🌍 Love to **connect, collaborate, and build in public**
 - ⚡ Fun fact: *Passion is doing what you love.*
@@ -80,11 +77,10 @@ I'm a **Software Engineer**, **Founder**, and passionate builder who loves turni
 <td width="50%" valign="top">
 
 ### 🤖 localPrompt
-> AI-powered prompt engineering platform for developers and creatives.
+> 100% Private AI prompt engineering platform available on Play Store
 
 - ✅ Smart prompt templates
-- ✅ Productivity-first workflow
-- ✅ Built with Next.js + AI integrations
+- ✅ Built with React Native
 
 </td>
 <td width="50%" valign="top">
@@ -92,9 +88,9 @@ I'm a **Software Engineer**, **Founder**, and passionate builder who loves turni
 ### 🎓 Digischool
 > EdTech SaaS automating school management and saving teachers hours daily.
 
-- ✅ Teacher workflow automation
-- ✅ Student performance tracking
-- ✅ Admin & parent dashboards
+- ✅ workflow automation
+- ✅ Student Data tracking
+- ✅ Admin & Scanner dashboard
 
 </td>
 </tr>
